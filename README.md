@@ -1,4 +1,4 @@
-# Hi, Elrapiz here
+# 👋 Hi, Elrapiz here
 
 <!--
 **Elrapiz/Elrapiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
